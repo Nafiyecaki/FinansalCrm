@@ -10,7 +10,7 @@
  Ödeme İşlemleri 💳
  Banka Hareketleri 📊
  Dashboard (Gösterge Paneli) 📈
- Ayarlar ⚙️
+ Ayarlar (İsim Düzenleme, Şifre Değiştirme, İletişim Bilgileri, Eşleşmiş Cihazlar, Açık Bankacılık Kullanım Tercihi, Kart Gönderim Adresi Tanımlama, Atm Makbuz Tercihlerim, Banka İletişim Bilgileri )⚙️
  Çıkış 🔒
 
  Son Case olan proje ile ilgili aşağıda ekran görüntüleri yer almaktadır.
