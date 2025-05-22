@@ -1,19 +1,5 @@
 # FİNANSALCRM PROJEM
 
- Bu proje, Murat Yücedağ'ın YouTube'da sunduğu 30 derslik eğitim serisi sonunda geliştirdiğim bir finans yönetim uygulamasıdır.
-
- 🚀 Özellikler :
- Giriş 🏠
- Kategoriler 📂
- Banka 🏦
- Fatura İşlemleri 🧾
- Ödeme İşlemleri 💳
- Banka Hareketleri 📊
- Dashboard (Gösterge Paneli) 📈
- Ayarlar (İsim Düzenleme, Şifre Değiştirme, İletişim Bilgileri, Eşleşmiş Cihazlar, Açık Bankacılık Kullanım Tercihi, Kart Gönderim Adresi Tanımlama, Atm Makbuz Tercihlerim, Banka İletişim Bilgileri )⚙️
- Çıkış 🔒
-
- Son Case olan proje ile ilgili aşağıda ekran görüntüleri yer almaktadır.
 
  ![Ekran görüntüsü 2025-03-12 035906](https://github.com/user-attachments/assets/53641a6d-f2de-4e28-bfeb-8692056c4b84)
 
