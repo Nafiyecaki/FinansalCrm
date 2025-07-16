@@ -2,6 +2,7 @@
 Bu proje, Murat Yücedağ'ın YouTube'da sunduğu 30 derslik eğitim serisi sonunda geliştirdiğim bir finans yönetim uygulamasıdır.
 
  🚀 Özellikler :
+ 
    Giriş 🏠
    
    Kategoriler 📂
