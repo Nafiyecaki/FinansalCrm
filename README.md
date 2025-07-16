@@ -3,12 +3,19 @@ Bu proje, Murat Yücedağ'ın YouTube'da sunduğu 30 derslik eğitim serisi sonu
 
  🚀 Özellikler :
    Giriş 🏠
+   
    Kategoriler 📂
+   
    Banka 🏦
+   
    Fatura İşlemleri 🧾
+   
    Ödeme İşlemleri 💳
+
    Banka Hareketleri 📊
+   
    Dashboard (Gösterge Paneli) 📈
+   
    Ayarlar (İsim Düzenleme, Şifre Değiştirme, İletişim Bilgileri, Eşleşmiş Cihazlar, Açık Bankacılık Kullanım Tercihi, Kart Gönderim Adresi Tanımlama, Atm Makbuz Tercihlerim, Banka İletişim Bilgileri )⚙️
  Çıkış 🔒
 
