@@ -1,25 +1,47 @@
-# FİNANSALCRM PROJEM
-Bu proje, Murat Yücedağ'ın YouTube'da sunduğu 30 derslik eğitim serisi sonunda geliştirdiğim bir finans yönetim uygulamasıdır.
+# 📊 FinansalCRM Projem
 
- 🚀 Özellikler :
- 
-   Giriş 🏠
-   
-   Kategoriler 📂
-   
-   Banka 🏦
-   
-   Fatura İşlemleri 🧾
-   
-   Ödeme İşlemleri 💳
+Bu proje, **Murat Yücedağ**’ın YouTube’daki 30 derslik eğitim serisi sonunda geliştirdiğim masaüstü finans yönetim uygulamasıdır.  
+Gerçek dünya senaryolarına uygun olarak kullanıcıların finansal işlemlerini kolayca yönetmelerini hedefler.
 
-   Banka Hareketleri 📊
-   
-   Dashboard (Gösterge Paneli) 📈
-   
-   Ayarlar (İsim Düzenleme, Şifre Değiştirme, İletişim Bilgileri, Eşleşmiş Cihazlar, Açık Bankacılık Kullanım Tercihi, Kart Gönderim Adresi Tanımlama, Atm Makbuz Tercihlerim, Banka İletişim Bilgileri )⚙️
-   
- Çıkış 🔒
+---
+
+## 🚀 Özellikler
+
+- **Giriş** 🏠  
+- **Kategoriler** 📂  
+- **Banka** 🏦  
+- **Fatura İşlemleri** 🧾  
+- **Ödeme İşlemleri** 💳  
+- **Banka Hareketleri** 📊  
+- **Dashboard (Gösterge Paneli)** 📈  
+- **Ayarlar** ⚙️  
+  - İsim Düzenleme  
+  - Şifre Değiştirme  
+  - İletişim Bilgileri  
+  - Eşleşmiş Cihazlar  
+  - Açık Bankacılık Kullanım Tercihi  
+  - Kart Gönderim Adresi Tanımlama  
+  - ATM Makbuz Tercihleri  
+  - Banka İletişim Bilgileri  
+- **Çıkış** 🔒  
+
+---
+
+## 🛠️ Kullandığım Teknolojiler
+
+- **C# & .NET Framework:** Masaüstü uygulamanın altyapısı.  
+- **Windows Forms:** Kullanıcı arayüzü tasarımı.  
+- **Entity Framework:** Veritabanı işlemlerini kolaylaştırma.  
+- **SQL Veritabanı:** Verilerin saklanması ve sorgulanması.  
+- **LINQ:** Veriler üzerinde okunabilir sorgular.  
+- **Nesne Tabanlı Programlama (OOP):** Modüler ve sürdürülebilir kod yapısı.
+
+---
+
+
+**Teşekkürler!**  
+Proje hakkında geri bildirimlerinizi bekliyorum.
+
 
  Son Case olan proje ile ilgili aşağıda ekran görüntüleri yer almaktadır.
 
